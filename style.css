@@ -1,0 +1,28 @@
+body{
+    background-image: url('images/gt1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.zim{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 2.4rem;
+}
+#word{
+    font-family:cursive; 
+    color: #ffff
+}
+.jeff{
+    width: 20rem;
+    border-radius: 2.13rem;
+}
+.benz{
+    width: 10rem;
+    height: 10rem;
+}
+.great{
+    background-color: #ffff;
+    border-radius: 2.13rem;
+    display: inline;
+}
